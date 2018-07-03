@@ -1,0 +1,557 @@
+[
+    {
+        "change_rev": null,
+        "idx": 0,
+        "last_err": 5.391309222222226e-06,
+        "last_rev": 20943,
+        "last_value": 4.056461299999998e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 1, 'constant')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 1,
+        "last_err": 3.949635888888889e-06,
+        "last_rev": 20943,
+        "last_value": 3.5367718000000006e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 1, 'edge')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 2,
+        "last_err": 7.366156611111109e-06,
+        "last_rev": 20943,
+        "last_value": 9.405879400000001e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 1, 'linear_ramp')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 3,
+        "last_err": 1.181605055555556e-05,
+        "last_rev": 20943,
+        "last_value": 8.187229600000001e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 1, 'mean')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 4,
+        "last_err": 4.024327277777774e-06,
+        "last_rev": 20943,
+        "last_value": 3.519223499999999e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 1, 'reflect')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 5,
+        "last_err": 4.231703927777773e-06,
+        "last_rev": 20943,
+        "last_value": 2.7641815e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 1, 'wrap')",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            20900,
+            20918
+        ],
+        "idx": 6,
+        "last_err": 6.012149999999962e-07,
+        "last_rev": 20943,
+        "last_value": 2.763623450000001e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 3, 'constant')",
+        "prev_value": 4.162273400000001e-05
+    },
+    {
+        "change_rev": [
+            20900,
+            20918
+        ],
+        "idx": 7,
+        "last_err": 2.215340000000017e-07,
+        "last_rev": 20943,
+        "last_value": 2.641280700000001e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 3, 'edge')",
+        "prev_value": 3.605715200000001e-05
+    },
+    {
+        "change_rev": null,
+        "idx": 8,
+        "last_err": 7.057163388888885e-06,
+        "last_rev": 20943,
+        "last_value": 9.406875600000001e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 3, 'linear_ramp')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 9,
+        "last_err": 1.3346413144444458e-05,
+        "last_rev": 20943,
+        "last_value": 8.10605945e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 3, 'mean')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 10,
+        "last_err": 4.909576733333325e-06,
+        "last_rev": 20943,
+        "last_value": 3.410259699999999e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 3, 'reflect')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 11,
+        "last_err": 3.6206745722222204e-06,
+        "last_rev": 20943,
+        "last_value": 2.730397450000001e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), 3, 'wrap')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 12,
+        "last_err": 2.1760146666666637e-06,
+        "last_rev": 20943,
+        "last_value": 4.36493765e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), (0, 5), 'constant')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 13,
+        "last_err": 2.1739509444444447e-06,
+        "last_rev": 20943,
+        "last_value": 3.558254200000001e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), (0, 5), 'edge')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 14,
+        "last_err": 6.945071055555561e-06,
+        "last_rev": 20943,
+        "last_value": 7.86664675e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), (0, 5), 'linear_ramp')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 15,
+        "last_err": 8.63976482222222e-06,
+        "last_rev": 20943,
+        "last_value": 6.631266550000002e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), (0, 5), 'mean')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 16,
+        "last_err": 5.073039783333337e-06,
+        "last_rev": 20943,
+        "last_value": 3.724768199999999e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), (0, 5), 'reflect')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 17,
+        "last_err": 4.281062626666665e-06,
+        "last_rev": 20943,
+        "last_value": 3.0118510000000014e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((1000,), (0, 5), 'wrap')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 18,
+        "last_err": 6.191475722222223e-06,
+        "last_rev": 20943,
+        "last_value": 4.838608899999999e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 1, 'constant')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 19,
+        "last_err": 3.959882388888883e-06,
+        "last_rev": 20943,
+        "last_value": 4.8795423500000005e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 1, 'edge')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 20,
+        "last_err": 1.826234288888889e-05,
+        "last_rev": 20943,
+        "last_value": 0.00016042645700000004,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 1, 'linear_ramp')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 21,
+        "last_err": 2.1078114888888893e-05,
+        "last_rev": 20943,
+        "last_value": 0.00013601711300000003,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 1, 'mean')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 22,
+        "last_err": 7.955206833333332e-06,
+        "last_rev": 20943,
+        "last_value": 4.770524349999998e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 1, 'reflect')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 23,
+        "last_err": 8.511472044444444e-06,
+        "last_rev": 20943,
+        "last_value": 3.848992999999999e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 1, 'wrap')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 24,
+        "last_err": 6.194199055555551e-06,
+        "last_rev": 20943,
+        "last_value": 4.868004950000001e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 3, 'constant')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 25,
+        "last_err": 3.913906444444438e-06,
+        "last_rev": 20943,
+        "last_value": 4.9865851500000004e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 3, 'edge')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 26,
+        "last_err": 2.7388183777777775e-05,
+        "last_rev": 20943,
+        "last_value": 0.00019794443699999996,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 3, 'linear_ramp')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 27,
+        "last_err": 2.4229530777777783e-05,
+        "last_rev": 20943,
+        "last_value": 0.00013974186699999998,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 3, 'mean')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 28,
+        "last_err": 5.8643282222222276e-06,
+        "last_rev": 20943,
+        "last_value": 4.952286400000001e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 3, 'reflect')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 29,
+        "last_err": 8.186268644444444e-06,
+        "last_rev": 20943,
+        "last_value": 3.7329268499999985e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), 3, 'wrap')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 30,
+        "last_err": 8.712582055555557e-06,
+        "last_rev": 20943,
+        "last_value": 5.02653265e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), (0, 5), 'constant')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 31,
+        "last_err": 5.507365277777777e-06,
+        "last_rev": 20943,
+        "last_value": 4.47868745e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), (0, 5), 'edge')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 32,
+        "last_err": 2.6796833277777778e-05,
+        "last_rev": 20943,
+        "last_value": 0.000157188059,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), (0, 5), 'linear_ramp')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 33,
+        "last_err": 1.787637994444444e-05,
+        "last_rev": 20943,
+        "last_value": 9.788607750000003e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), (0, 5), 'mean')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 34,
+        "last_err": 7.343673555555554e-06,
+        "last_rev": 20943,
+        "last_value": 4.391814150000001e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), (0, 5), 'reflect')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 35,
+        "last_err": 2.819100866666673e-06,
+        "last_rev": 20943,
+        "last_value": 3.0040750000000005e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 100), (0, 5), 'wrap')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 36,
+        "last_err": 6.14335538888889e-06,
+        "last_rev": 20943,
+        "last_value": 5.712370400000001e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 1, 'constant')",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            20900,
+            20918
+        ],
+        "idx": 37,
+        "last_err": 1.6290917499999917e-06,
+        "last_rev": 20943,
+        "last_value": 5.3010099000000007e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 1, 'edge')",
+        "prev_value": 6.6754366e-05
+    },
+    {
+        "change_rev": null,
+        "idx": 38,
+        "last_err": 1.7725421277777796e-05,
+        "last_rev": 20943,
+        "last_value": 0.00025530873999999996,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 1, 'linear_ramp')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 39,
+        "last_err": 4.2939206277777774e-05,
+        "last_rev": 20943,
+        "last_value": 0.000235658179,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 1, 'mean')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 40,
+        "last_err": 9.90376066666667e-06,
+        "last_rev": 20943,
+        "last_value": 6.39159985e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 1, 'reflect')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 41,
+        "last_err": 1.4524310000000003e-05,
+        "last_rev": 20943,
+        "last_value": 4.013503000000002e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 1, 'wrap')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 42,
+        "last_err": 8.903436388888884e-06,
+        "last_rev": 20943,
+        "last_value": 6.568341200000002e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 3, 'constant')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 43,
+        "last_err": 7.820890444444441e-06,
+        "last_rev": 20943,
+        "last_value": 8.108233499999997e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 3, 'edge')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 44,
+        "last_err": 8.151730777777776e-05,
+        "last_rev": 20943,
+        "last_value": 0.0004775409450000001,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 3, 'linear_ramp')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 45,
+        "last_err": 5.413518422222225e-05,
+        "last_rev": 20943,
+        "last_value": 0.00027514983500000006,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 3, 'mean')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 46,
+        "last_err": 1.3507876944444444e-05,
+        "last_rev": 20943,
+        "last_value": 7.205352000000002e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 3, 'reflect')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 47,
+        "last_err": 1.9499112499999995e-05,
+        "last_rev": 20943,
+        "last_value": 5.024291799999998e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), 3, 'wrap')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 48,
+        "last_err": 5.408158555555553e-06,
+        "last_rev": 20943,
+        "last_value": 5.939572649999998e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), (0, 5), 'constant')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 49,
+        "last_err": 6.127957388888882e-06,
+        "last_rev": 20943,
+        "last_value": 6.571033349999999e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), (0, 5), 'edge')",
+        "prev_value": null
+    },
+    {
+        "change_rev": null,
+        "idx": 50,
+        "last_err": 6.45132744444444e-05,
+        "last_rev": 20943,
+        "last_value": 0.00037032580500000005,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), (0, 5), 'linear_ramp')",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            20827,
+            20834
+        ],
+        "idx": 51,
+        "last_err": 7.221411500000004e-06,
+        "last_rev": 20943,
+        "last_value": 0.00017285058400000005,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), (0, 5), 'mean')",
+        "prev_value": 3.61947765e-05
+    },
+    {
+        "change_rev": null,
+        "idx": 52,
+        "last_err": 7.352923777777778e-06,
+        "last_rev": 20943,
+        "last_value": 6.116204900000002e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), (0, 5), 'reflect')",
+        "prev_value": null
+    },
+    {
+        "change_rev": [
+            20896,
+            20900
+        ],
+        "idx": 53,
+        "last_err": 1.3399891999999863e-06,
+        "last_rev": 20943,
+        "last_value": 6.088489400000002e-05,
+        "name": "bench_lib.Pad.time_pad",
+        "pretty_name": "bench_lib.Pad.time_pad((10, 10, 10), (0, 5), 'wrap')",
+        "prev_value": 3.26999375e-05
+    }
+]

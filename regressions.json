@@ -1,0 +1,40 @@
+{
+    "regressions": [
+        [
+            "bench_lib.Pad.time_pad((10, 10, 10), (0, 5), 'mean')",
+            "graphs/arch-x86_64/branch-pad/cpu-Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz/machine-nblg/os-Linux 4.14.34-1-MANJARO/python-3.6/ram-8048320/six/bench_lib.Pad.time_pad.json",
+            {},
+            51,
+            [
+                [
+                    [
+                        null,
+                        20834,
+                        3.61947765e-05,
+                        0.00017285058400000005
+                    ]
+                ],
+                0.00017285058400000005,
+                3.61947765e-05
+            ]
+        ],
+        [
+            "bench_lib.Pad.time_pad((10, 10, 10), (0, 5), 'wrap')",
+            "graphs/arch-x86_64/branch-pad/cpu-Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz/machine-nblg/os-Linux 4.14.34-1-MANJARO/python-3.6/ram-8048320/six/bench_lib.Pad.time_pad.json",
+            {},
+            53,
+            [
+                [
+                    [
+                        20896,
+                        20900,
+                        3.26999375e-05,
+                        6.088489400000002e-05
+                    ]
+                ],
+                6.088489400000002e-05,
+                3.26999375e-05
+            ]
+        ]
+    ]
+}
